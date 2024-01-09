@@ -1,0 +1,231 @@
+Volume of Sphere in Python
+Problem Description:
+
+You are given a positive integer r denoting the radius of a sphere as a parameter. Write a program to calculate the volume of the sphere. The volume of a sphere having radius R is given by (4 * π * R3) / 3.
+
+NOTE: Return the volume of the sphere up to two decimal places. You can use round().
+
+NOTE2: Use pi as 22/7 (not math.pi).
+
+Input Format:
+
+The first line indicates the number of the test cases. For each testcase there will be one line of input:
+The one line contains r in integer format.
+Output Format:
+
+The volume of the sphere in float format is printed for each testcase in a new line.
+Sample Input:
+
+1
+8
+Sample Output:
+
+2145.52
+##################################################
+String Concatenation I
+Problem Description
+
+You have 2 strings (A and B).
+
+You have to concatenate two strings and return the concatenated string.
+
+
+
+Problem Constraints
+1 <= A.size() <= 1000
+
+1 <= B.size() <= 1000
+
+
+
+Input Format
+First argument containing a lowercase string A.
+
+Second argument containing a lowercase string B.
+
+
+
+Output Format
+You have to return concatenated string.
+
+
+
+Example Input
+Input 1:
+
+A = "interview", B = "bit"
+
+
+Example Output
+Output 1:
+
+interviewbit
+
+
+Example Explanation
+Explanation 1:
+
+Clearly, interview bit = interviewbit.
+###########################################################################################
+Print Substring!
+Problem Description
+
+Given a string A and two integer B and C.
+
+Find and return the substring of A starting from index B and ending with index C.
+
+NOTE:
+
+Consider 0 based indexing.
+Try to use direct library function to solve this.
+
+
+Problem Constraints
+1 <= |A| <= 100
+
+0 <= B, C < |A|
+
+
+
+Input Format
+First argument is an string A.
+
+Second argument is an integer B.
+
+Third argument is an integer C.
+
+
+
+Output Format
+Return the substring of A starting from index B and ending with index C.
+
+
+
+Example Input
+Input 1:
+
+ A = "rishabh"
+ B = 1
+ C = 2
+Input 2:
+
+ A = "ojas"
+ B = 0
+ C = 0
+
+
+Example Output
+Output 1:
+
+ "is"
+Output 2:
+
+ "o"
+
+
+Example Explanation
+Explanation 1:
+
+ Substring from index 1 to index 2 in "rishabh" is "is".
+#############################################
+FizzBuzz
+Problem Description
+
+Given a positive integer A, return an array of strings with all the integers from 1 to N. But for multiples of 3 the array should have “Fizz” instead of the number. For the multiples of 5, the array should have “Buzz” instead of the number. For numbers which are multiple of 3 and 5 both, the array should have "FizzBuzz" instead of the number.
+
+Look at the example for more details.
+
+
+
+Problem Constraints
+1 <= A <= 500000
+
+
+
+Input Format
+The first argument has the integer A.
+
+
+
+Output Format
+Return an array of string.
+
+
+
+Example Input
+Input 1:
+
+ A = 5
+
+
+Example Output
+Output 1:
+
+ [1 2 Fizz 4 Buzz]
+
+
+Example Explanation
+Explanation 1:
+
+ 3 is divisible by 3 so it is replaced by "Fizz".
+ Similarly, 5 is divisible by 5 so it is replaced by "Buzz".
+####################################################################
+Leap year? - III
+Problem Description
+
+Given an integer A representing a year, Return 1 if it is a leap year else, return 0.
+
+A year is a leap year if the following conditions are satisfied:
+
+The year is multiple of 400.
+or the year is multiple of 4 and not multiple of 100.
+
+Problem Constraints
+
+1 <= A <= 109
+
+
+
+Input Format
+
+First and only argument is an integer A
+
+
+
+Output Format
+
+Return 1 if it is a leap year else return 0
+
+
+
+Example Input
+
+Input 1
+
+ A = 2020
+Input 2:
+
+ A = 1999
+
+
+Example Output
+
+Output 1
+
+ 1
+Output 2:
+
+ 0
+
+
+Example Explanation
+
+Explanation 1
+
+ 2020 is a leap year. 
+ 2020 is not a multiple of 400 but it is divisible by 4 and also at the same time not divisible by 100.
+Explanation 2:
+
+ 1999 is not a leap year.
+ 199 is not a multiple of 400. It is not divisible by 4 and also at the same time not divisible by 100.
+ All the conditions fail.

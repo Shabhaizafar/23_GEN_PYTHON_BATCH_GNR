@@ -1,0 +1,26 @@
+Variables : 
+int,float,boolean,string,none
+-----------------------------
+Type Function : 
+type()
+-----------------------------
+Input Function : 
+input()
+-----------------------------
+Type Coversion
+____________________________
+Print function :
+print()
+1) single value
+2) multiple value
+____________________________
+Operators : 
+1) Arithmetic : +,-,/,*,%,//,**
+2) Comparison : <,<=,>,>=,==,!=
+3) Assignment : =,+=,-=,*=,/=,%=,//=
+4) Logical : and , or , not
+5) special : is , in 
+_____________________________
+Control Flow : 
+- if else
+

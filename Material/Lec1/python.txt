@@ -1,0 +1,33 @@
+Intro : 
+1) What is Python ?
+	- Popular Propgraming Language.
+	- Guido van Rossum , released in 1991
+	  CWL (Netherland).
+	- General Purpose,High Level 
+	- Dynamic
+	  int num1 = 12;
+	    num1 = "zafar"
+2) Why to Use Python ?
+	- Simple and Easy to Learn.
+	  C : 
+		void main()
+		{
+			printf("Hello World!!");
+		}
+	  Py : 
+		print("Hello World")
+
+	- Platform independent.
+	- Free and Open source.
+	- Interpreted. 
+	- Rich Library Support.
+	- Embeddable and Extensable.
+	- Portable
+	- Robust.
+3) Where to Use Python ? 
+	- Web frameworks and application.
+	- GUI-based desktop app
+	- graphic design ,games, etc
+	- ML,AI,Neural Network 
+	- Data science,Data Visualization 
+	- Database Management. 

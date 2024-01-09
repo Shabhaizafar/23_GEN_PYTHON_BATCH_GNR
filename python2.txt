@@ -1,0 +1,10 @@
+variables
+memory allocation (stack & Heap)
+id FUnction 
+Comments
+Data types
+ - integer
+ - float 
+ - Bloolean
+ - String 
+ - None
