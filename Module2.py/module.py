@@ -10,4 +10,4 @@ data = dt.datetime.now()
 # print("Data : ",data.time())
 # print("Data : ",data.timetz())
 
-data.
+# data.
