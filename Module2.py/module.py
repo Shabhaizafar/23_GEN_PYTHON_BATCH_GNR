@@ -1,8 +1,8 @@
 # Datetime Module 
 
-import datetime as dt
+# import datetime as dt
 
-data = dt.datetime.now()
+# data = dt.datetime.now()
 
 # data.date()
 
@@ -10,4 +10,5 @@ data = dt.datetime.now()
 # print("Data : ",data.time())
 # print("Data : ",data.timetz())
 
-# data.
+# combine method in data
+# print(data.combine(dt.date(2024,11,1), data.time()))
